@@ -66,6 +66,8 @@ public class QuizGame {
 
         System.out.println("Your Score: " + score + "/" + quiz.size());
         
+        // Prints message.
+        
         if(score <= 1)
         {
         	System.out.println("Better Luck next time well try!");
